@@ -2,11 +2,11 @@
 
 # Walkthrough of Ecommerce
 
-https://drive.google.com/file/d/1cO1TFtc4m3L50RYIq1AItTdKkibXSP3M/view
+https://drive.google.com/file/d/1loOG3EwSc3u6BzmqlkZVPEb6_g5N2tiN/view
 
 # Walkthrough of Backend Insomia
 
-https://drive.google.com/file/d/1IjfRTNuHIdVoMNH2cHiXys0Xonm16d-J/view
+https://drive.google.com/file/d/1HqrdMtpGPUsk7QzhQXgkbl7Ze_Q6Y66q/view
 
 ## Screenshot
 
