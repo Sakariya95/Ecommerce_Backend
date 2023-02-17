@@ -6,6 +6,8 @@ https://drive.google.com/file/d/1cO1TFtc4m3L50RYIq1AItTdKkibXSP3M/view
 
 # Walkthrough of Backend Insomia
 
+https://drive.google.com/file/d/1IjfRTNuHIdVoMNH2cHiXys0Xonm16d-J/view
+
 ## Screenshot
 
 ![Sceenshot of Ecommerce](./ecom1.png)
